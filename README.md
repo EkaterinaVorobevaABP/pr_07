@@ -59,7 +59,7 @@
  
 ![image](https://github.com/user-attachments/assets/3969644c-ef41-45bc-8a27-9575444a2aff)
 
-https://datalens.yandex.cloud/wizard/8jvkz12bsb9wu-doctors-krugovaya-diagramma
+[https://datalens.yandex.cloud/wizard/8jvkz12bsb9wu-doctors-krugovaya-diagramma](https://datalens.yandex/8jvkz12bsb9wu)
 Ссылка на чарт Yandex DataLens
 
 В репозиторий загружены все необходимые файлы: ERD-диаграмма, SQL-скрипт, файл VS code, все задания выполнены!
